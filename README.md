@@ -1,4 +1,4 @@
-### Guess who? :D :
+### Guess who? :D 
 
 ***
 
