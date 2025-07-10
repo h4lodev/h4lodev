@@ -1,4 +1,4 @@
-### Guess who? :D 
+<h3>Guess who? :D</h3> 
 
 ***
 
@@ -12,10 +12,12 @@ When I create something, there's a small chance that I will never finish it depe
 
 I also loooooove to tinker, I build hardware for fun and experiment with what I have, I moved to using linux for majority of my tasks due to developer support!
 
+***
 
 <h3>❓ | Projects</h3>
 Find it on https://h4lo.ca/projs!
 
+***
 
 <h3>💭 | What I know</h3>
 Find it on https://h4lo.ca/about! (slightly outdated, updating soon!)
