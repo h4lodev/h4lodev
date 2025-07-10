@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>
 
-TestText, below information outdated. TestText, below information outdated. TestText, below information outdated. 
+TestText, below information outdated. TestText, below information outdated. TestText, below information outdated. TestText, below information outdated. 
 
 
 ## 🌐 Socials:
