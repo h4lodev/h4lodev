@@ -13,11 +13,11 @@ When I create something, there's a small chance that I will never finish it depe
 I also loooooove to tinker, I build hardware for fun and experiment with what I have, I moved to using linux for majority of my tasks due to developer support!
 
 
-## ❓ | Projects
+<h3>❓ | Projects</h3>
 Find it on https://h4lo.ca/projs!
 
 
-## 💭 | What I know
+<h3>💭 | What I know</h3>
 Find it on https://h4lo.ca/about! (slightly outdated, updating soon!)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/617800457469034507) 
