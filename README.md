@@ -17,7 +17,7 @@ I also loooooove to tinker, I build hardware for fun and experiment with what I 
 Find it on https://h4lo.ca/projs!
 
 
-## 💭 | What I know:
+## 💭 | What I know
 Find it on https://h4lo.ca/about! (slightly outdated, updating soon!)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/617800457469034507) 
