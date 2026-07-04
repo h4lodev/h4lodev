@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>
 
-I'm love to create, so much so that I've become a multigenre creator! I love to make music, program, design, and illustrate, I'll try pretty much anything at least once!
+I love to create, so much so that I've become a multigenre creator! I love to make music, program, design, and illustrate, I'll try pretty much anything at least once!
 
 When I create something, there's a small chance that I will never finish it depending on its size, but sometimes I'll complete the task, no matter how monstrous!
 
