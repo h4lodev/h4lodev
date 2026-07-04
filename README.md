@@ -15,12 +15,12 @@ I also loooooove to tinker, I build hardware for fun and experiment with what I 
 ***
 
 <h3>❓ | Projects</h3>
-Find it on https://h4lo.ca/projs!
+Find it on https://h4lo.ca
 
 ***
 
 <h3>💭 | What I know</h3>
-Find it on https://h4lo.ca/about! (slightly outdated, updating soon!)
+Find it on https://h4lo.ca
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/617800457469034507) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theh4lo) 
